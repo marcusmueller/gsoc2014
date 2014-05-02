@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+Disallow: /blog/page/
+Disallow: /tags/
+Sitemap: marcusmueller.github.com/gsoc2014/sitemap.xml
